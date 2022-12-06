@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891962164223",
+    "project_id": "react-native-sandbox-bc4af",
+    "storage_bucket": "react-native-sandbox-bc4af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891962164223:android:b17afa2743425b7ac29dca",
+        "android_client_info": {
+          "package_name": "com.rnfirebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891962164223-9q4l0t4s2mmeindijo76fg30cbqo9b36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhFiKi_05V8CXaWFhmol775irkHnX523g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891962164223-9q4l0t4s2mmeindijo76fg30cbqo9b36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
